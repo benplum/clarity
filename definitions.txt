@@ -130,3 +130,6 @@ div[data-name*="wbcr_factory_notice_adverts"]
 
 -- Admin Columns
 #ws_sidebar_pro_ad
+
+-- Short Pixel Upsells
+.shortpixel-offer
