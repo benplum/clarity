@@ -256,3 +256,6 @@ div.notice[data-dismissible="notice-owa-upgrade-forever"]
 
 -- Image Hover Effects for Elementor
 .oxi-image-notice
+
+-- WP Pop Ups
+.wppopups-review-notice
